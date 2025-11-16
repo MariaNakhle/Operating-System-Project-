@@ -1,0 +1,14 @@
+Total words: 104497
+Unique words: 8810
+
+Top 10 most common words:
+1. the 5198
+2. and 3821
+3. i 3346
+4. of 3266
+5. to 2790
+6. my 2106
+7. a 1979
+8. in 1572
+9. that 1380
+10. me 1116

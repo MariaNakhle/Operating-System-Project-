@@ -1,0 +1,20 @@
+CONCURRENCY PERFORMANCE COMPARISON REPORT
+==================================================
+
+System Information:
+- CPU Cores: 4 (fixed pool size)
+
+Processing Method Performance:
+----------------------------------------
+Method: threading
+  Words Processed: 104497
+  Total Time: 0.0349 seconds
+
+Method: sequential
+  Words Processed: 104497
+  Total Time: 0.0478 seconds
+
+Method: multiprocessing
+  Words Processed: 104497
+  Total Time: 0.2298 seconds
+
